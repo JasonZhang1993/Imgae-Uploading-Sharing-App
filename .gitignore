@@ -1,7 +1,11 @@
 
-.DS_Store
-.idea
+.idea/
 
-/ImgUpload/.DS_Store
-/ImgUpload/Pods
-/ImgUpload/Podfile.lock
+ImgUpload/.DS_Store
+ImgUpload/Pods
+ImgUpload/Podfile.lock
+
+
+# System Files
+.DS_Store
+Thumbs.db
