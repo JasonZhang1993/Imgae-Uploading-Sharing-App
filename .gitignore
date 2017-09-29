@@ -1,0 +1,7 @@
+
+.DS_Store
+.idea
+
+/ImgUpload/.DS_Store
+/ImgUpload/Pods
+/ImgUpload/Podfile.lock
