@@ -1,0 +1,110 @@
+PODS:
+  - AWSAutoScaling (2.6.1):
+    - AWSCore (= 2.6.1)
+  - AWSCloudWatch (2.6.1):
+    - AWSCore (= 2.6.1)
+  - AWSCognito (2.6.1):
+    - AWSCore (= 2.6.1)
+  - AWSCognitoIdentityProvider (2.6.1):
+    - AWSCore (= 2.6.1)
+  - AWSCore (2.6.1)
+  - AWSDynamoDB (2.6.1):
+    - AWSCore (= 2.6.1)
+  - AWSEC2 (2.6.1):
+    - AWSCore (= 2.6.1)
+  - AWSElasticLoadBalancing (2.6.1):
+    - AWSCore (= 2.6.1)
+  - AWSIoT (2.6.1):
+    - AWSCore (= 2.6.1)
+  - AWSKinesis (2.6.1):
+    - AWSCore (= 2.6.1)
+  - AWSLambda (2.6.1):
+    - AWSCore (= 2.6.1)
+  - AWSLex (2.6.1):
+    - AWSCore (= 2.6.1)
+  - AWSMachineLearning (2.6.1):
+    - AWSCore (= 2.6.1)
+  - AWSMobileAnalytics (2.6.1):
+    - AWSCore (= 2.6.1)
+  - AWSPinpoint (2.6.1):
+    - AWSCore (= 2.6.1)
+  - AWSPolly (2.6.1):
+    - AWSCore (= 2.6.1)
+  - AWSRekognition (2.6.1):
+    - AWSCore (= 2.6.1)
+  - AWSS3 (2.6.1):
+    - AWSCore (= 2.6.1)
+  - AWSSES (2.6.1):
+    - AWSCore (= 2.6.1)
+  - AWSSimpleDB (2.6.1):
+    - AWSCore (= 2.6.1)
+  - AWSSNS (2.6.1):
+    - AWSCore (= 2.6.1)
+  - AWSSQS (2.6.1):
+    - AWSCore (= 2.6.1)
+  - EasyToast (2.0.2)
+  - ImageFormatInspector (0.1.0)
+  - SwiftSpinner (1.3.0)
+  - YangMingShan (1.3.0):
+    - YangMingShan/YMSPhotoPicker (= 1.3.0)
+  - YangMingShan/YMSPhotoPicker (1.3.0)
+
+DEPENDENCIES:
+  - AWSAutoScaling
+  - AWSCloudWatch
+  - AWSCognito
+  - AWSCognitoIdentityProvider
+  - AWSCore
+  - AWSDynamoDB
+  - AWSEC2
+  - AWSElasticLoadBalancing
+  - AWSIoT
+  - AWSKinesis
+  - AWSLambda
+  - AWSLex
+  - AWSMachineLearning
+  - AWSMobileAnalytics
+  - AWSPinpoint
+  - AWSPolly
+  - AWSRekognition
+  - AWSS3
+  - AWSSES
+  - AWSSimpleDB
+  - AWSSNS
+  - AWSSQS
+  - EasyToast
+  - ImageFormatInspector
+  - SwiftSpinner
+  - YangMingShan
+
+SPEC CHECKSUMS:
+  AWSAutoScaling: 69870fc0dc0417adba08aacbacfe1c4cbe1aa7b6
+  AWSCloudWatch: 48ffd6cc1610c4113d5dc079f51534b85df7e26e
+  AWSCognito: 9aad635e11de0febf026e8a8acbbd345b2016801
+  AWSCognitoIdentityProvider: a335678a0024fa2b44213bc4e86b46b21773e567
+  AWSCore: e7d37fa0715def975acf1b0d75556576780088b8
+  AWSDynamoDB: e873d66ccd547efad9a7e266b8803659a53e0ac9
+  AWSEC2: 5cf1ec29b12711baebe33ef9349bc413f623a7d1
+  AWSElasticLoadBalancing: 48028580b69ffd136ec1e94bfe2026c2e607bb26
+  AWSIoT: b070b7f3967314f58e5c349f383b9f533f63c67a
+  AWSKinesis: c63805f4fe943515e0291532cf6ff7f4269002ef
+  AWSLambda: 044446e6a9310379a10939fb4e151b2b4a9fe5e6
+  AWSLex: 1dbe31322fb857b5d93f0520b5939b5461beb4e8
+  AWSMachineLearning: 3f2c50f631cad10431e5dade434adf400fa05834
+  AWSMobileAnalytics: e787c0a07a2a428ac27cc4a13be087b4bc667322
+  AWSPinpoint: 3b4a191a053858478010e0794ff0a3a42d72e12f
+  AWSPolly: a882638c195f94ddffd4b155e5801455aee8b657
+  AWSRekognition: 54783372f225d2cda1de305732563f65c4a78df0
+  AWSS3: 2e18ede28199a5530955dc1a65434da43dcc4d2c
+  AWSSES: aba21100f333fbe5b187ad763da18d5946079be3
+  AWSSimpleDB: 6060ddb066ca25b28853a453471c926764c484e4
+  AWSSNS: c92b66ebd6f434ae106d3ba49f9432436daba37e
+  AWSSQS: 8e55f609a5be369ec5c7348285c75d91cae9f3fe
+  EasyToast: 2844de2158fe8d2313c6de81b5a858a909d82532
+  ImageFormatInspector: b60b46cdfead930b209fdc7db375ee43263806f0
+  SwiftSpinner: c249fffed3e74b5f3e6492dcc05d6bc1525a8220
+  YangMingShan: e8a558a783663360ef63f07ae6d1940a5a5ead69
+
+PODFILE CHECKSUM: 064ba68052b8bc54a4473cfe73489ca981f63541
+
+COCOAPODS: 1.2.0
